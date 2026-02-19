@@ -1,5 +1,5 @@
 ## Oiii! Eu sou a Adny Emanuele 
-Estudante de ADS e Engenharia Mecânica | Apaixonada por tecnologia, automação e análise de dados 🚀
+Estudante de ADS | Apaixonada por tecnologia, automação e análise de dados 🚀
 
 <img align="right" width="200" alt="Gatinho Fofo Arco-íris Animado" src="https://media.tenor.com/C5uM8H45c9oAAAAi/cat-nya.gif">
 
