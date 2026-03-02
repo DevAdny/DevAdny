@@ -38,5 +38,5 @@ Estudante de ADS | Apaixonada por tecnologia, automação e análise de dados �
 
 ---
 
-![Snake animation](https://github.com/AdnyEmanuele/AdnyEmanuele/blob/output/github-contribution-grid-snake.svg)
+
 
